@@ -22,5 +22,6 @@ public class LinearArray {
 
         System.out.println("Not Found");
         sc.close();
+
     }
 }
